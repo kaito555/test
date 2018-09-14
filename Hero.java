@@ -62,6 +62,8 @@ public class Hero extends Character implements Human {
 
 	@Override
 	public void talk() {
+
+
 		System.out.println("raaaaaaaaaa");
 	}
 
