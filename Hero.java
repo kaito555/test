@@ -1,4 +1,4 @@
-package monster;
+﻿package monster;
 
 import java.util.Random;
 import java.util.Scanner;
@@ -62,7 +62,7 @@ public class Hero extends Character implements Human {
 
 	@Override
 	public void talk() {
-		System.out.println("今日もいい天気ですね");
+		System.out.println("waaaaaaa");
 	}
 
 	//レベルアップ
