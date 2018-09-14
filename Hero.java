@@ -62,7 +62,9 @@ public class Hero extends Character implements Human {
 
 	@Override
 	public void talk() {
-		System.out.println("teeeeeeee");
+
+
+		System.out.println("raaaaaaaaaa");
 	}
 
 	//レベルアップ
